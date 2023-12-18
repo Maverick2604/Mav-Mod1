@@ -1,5 +1,5 @@
 # Mav-Mod1
-## Description
+## About Project 
 
 In Solidity, there are three distinct statements—require(), assert(), and revert()—that are used to manage errors that can either halt the execution of the code or allow it to proceed, depending on the specified conditions.
 
@@ -19,7 +19,7 @@ Refer the modules and discord server if stuck anywhere.
 
 ## Authors
 
-Sarthak 
+Sarthak Dandhare
 
 ## License
 
